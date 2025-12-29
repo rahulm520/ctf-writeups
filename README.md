@@ -1,27 +1,19 @@
-# Cybersecurity CTF Write-Ups
+# SOC Learning – CTF Writeups
 
-This repository contains my documented solutions for Capture The Flag (CTF) challenges from platforms like TryHackMe and CTFLearn.
+This repository contains my documented learning from CTF challenges across CTFLearn, TryHackMe, and picoCTF.
 
-Each write-up focuses on:
+The focus of these writeups is:
 - Step-by-step reasoning
-- Security impact in real-world environments
+- Understanding attacker behavior
+- Mapping findings to real-world security impact
 - Defensive and mitigation takeaways
 
-The goal of this repository is learning, skill development, and demonstrating SOC-style thinking.
+These challenges were completed in legal lab environments for learning and skill development.
 
-## Platforms Covered
-- TryHackMe
+## Platforms
 - CTFLearn
+- TryHackMe
+- picoCTF
 
-## Categories
-- Web
-- Linux
-- Forensics
-- Cryptography
-
-## Disclaimer
-All challenges were completed in legal, controlled lab environments.
-No real systems were tested.
-
-## Contact
-GitHub: @rahulm520
+## Target Role
+Junior SOC Analyst / Security Analyst (Entry Level)
